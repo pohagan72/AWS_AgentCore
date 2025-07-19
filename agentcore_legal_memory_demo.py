@@ -1,4 +1,3 @@
-```python
 # Import necessary libraries
 import time
 from bedrock_agentcore.memory import MemoryClient
